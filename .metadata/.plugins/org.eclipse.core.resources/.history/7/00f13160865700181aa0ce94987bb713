@@ -1,0 +1,5 @@
+package com.lexicon.exceptions;
+
+public class BookAlreadyAvailable extends Exception {
+
+}

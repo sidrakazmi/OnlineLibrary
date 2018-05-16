@@ -1,0 +1,5 @@
+package com.lexicon.exceptions;
+
+public class MemberAlreadyAvailable extends Exception {
+
+}

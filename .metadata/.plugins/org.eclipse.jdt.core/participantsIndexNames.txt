@@ -1,0 +1,3 @@
+INDEX VERSION 1.130
+/Users/macbookair/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1588131975.index
+/LibraryProjekt/src/test/java

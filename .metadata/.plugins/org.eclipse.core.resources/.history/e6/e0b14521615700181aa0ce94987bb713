@@ -1,0 +1,5 @@
+package com.lexicon.models;
+
+public class Loan {
+
+}

@@ -1,0 +1,5 @@
+package com.lexicon.exceptions;
+
+public class BookNotFound extends Exception {
+
+}

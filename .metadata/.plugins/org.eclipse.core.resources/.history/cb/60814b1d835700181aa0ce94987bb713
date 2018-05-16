@@ -1,0 +1,43 @@
+package com.lexicon.repositories;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.lexicon.models.Member;
+
+@Service
+public class MemberDAO {
+
+	@Autowired
+	MemberRepository memberRepository;
+
+	@Autowired
+	BookRepository bookRepository;
+	
+	@Autowired
+	LoanRepository loanRepository;
+	
+	/*Save a member*/
+	public Member save(Member newMember) {
+		return memberRepository.save(newMember);
+	}
+	
+	/*Search all members*/
+	public List<Member> findAll() {
+		return memberRepository.findAll();
+	}
+	
+	/*Find a member by id*/
+	public Member findOne(Long m_id) {
+		return memberRepository.findOne(m_id);
+	}
+	
+	/*Delete a member*/
+	public void delete(Member mem) {
+		memberRepository.delete(mem);
+	}
+
+
+}

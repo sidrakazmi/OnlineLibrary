@@ -1,0 +1,8 @@
+package com.example.demo.controller;
+
+@RequestController
+@RequestMapping("api/v1/")
+
+public class ShipWreckController {
+
+}

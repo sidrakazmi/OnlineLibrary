@@ -1,0 +1,26 @@
+1526287661921	Copy compilation unit
+1526287676735	Delete element
+1526287740956	Copy compilation unit
+1526287766278	Delete element
+1526287852128	Copy compilation unit
+1526287869154	Delete element
+1526288195068	Delete element
+1526288355293	Delete element
+1526288372338	Copy package
+1526288379862	Delete element
+1526288536843	Copy compilation unit
+1526288554651	Copy compilation unit
+1526288577986	Delete elements
+1526288625510	Copy compilation unit
+1526288633035	Delete element
+1526294112375	Rename field 'memberRepository'
+1526308663687	Delete element
+1526308869804	Rename type 'MemberNorFoundException'
+1526309092692	Rename type 'MemberNorFound'
+1526457245719	Rename type 'BookDAO'
+1526457272200	Rename type 'LoanDAO'
+1526457290063	Rename type 'MemberDAO'
+1526457373978	Delete element
+1526458001714	Rename type 'BookAlreadyAvailable'
+1526459492619	Rename field 'bookDAO'
+1526461067245	Rename local variable 'student'

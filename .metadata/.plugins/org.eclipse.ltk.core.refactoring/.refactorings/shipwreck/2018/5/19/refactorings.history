@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;shipwreck&apos;&#x0A;- Original project: &apos;shipwreck&apos;&#x0A;- Original element: &apos;shipwreck/src/main/java/com.example.controller&apos;" description="Delete element" element1="/src\/main\/java&lt;com.example.controller" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1526153544976" subPackages="false" version="1.0"/>
+</session>

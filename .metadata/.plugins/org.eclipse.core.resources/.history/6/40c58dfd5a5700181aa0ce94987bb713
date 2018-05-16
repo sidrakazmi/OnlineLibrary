@@ -1,0 +1,11 @@
+package com.lexicon.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.lexicon.models.Loan;
+
+
+public interface LoanRepository extends JpaRepository<Loan, Long> {
+
+
+}
